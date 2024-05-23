@@ -34,7 +34,7 @@ go get -u -v github.com/andeya/faygo
 - Way 2: deployment tools ([Go to fay](https://github.com/andeya/fay))
 
 ```sh
-go get -u -v github.com/andeya/fay
+go get -u -v github.com/henrylee2cn/fay
 ```
 
 ```
